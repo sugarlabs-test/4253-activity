@@ -7,3 +7,6 @@ show_launcher = yes
 activity_version = 10
 host_version = 2
 mime_types = application/x-fototoon-activity;
+summary = Test Summary
+license = Default
+categories = default awesome categories
